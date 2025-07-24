@@ -1,7 +1,7 @@
 # EmployeeManagementProject
 #user For Test 
-admin@admin.com
-password: Aa_123456
+# admin@admin.com
+# password: Aa_123456
 
 # Note: I don't Complete all things in Task, So i'm Sorry About This.
 
